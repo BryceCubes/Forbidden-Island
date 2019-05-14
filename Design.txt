@@ -1,0 +1,32 @@
+DESIGN.TXT
+
+Thanks for reading our design.txt! If you are reading this you must be a tutor! Below is our design for our program.
+
+Interfaces:
+	IList
+
+Classes:
+	MtList implements IList
+		represents the empty list
+	ConsList implements IList
+		represents a nonempty list
+	IListIterator implements Iterator<T>
+		represents the iterator for an IList
+	Player
+		class for player who can move
+	Player2
+		class for player 2 who can move
+	Scuba
+		class for extra credit scuba item
+	Engineer
+		class for extra credit engineer item
+	Target
+		represents the parts of the helicopter
+	HelicopterTarget
+		represents the helicopter/goal after getting all the parts
+	Utils
+		Has constants which can be accessed
+	ForbiddenIslandWorld
+		world class
+	ExamplesForbiddenIslandWorld
+		class for examples

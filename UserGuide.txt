@@ -1,0 +1,26 @@
+# Forbidden Island World
+## By Kyle Into
+
+You awaken alone, marooned on an island. You cannot recall how you got here, but desperately want to get back home. Around you are scattered pieces of machinery, which you suspect are important somehow. Looking up to the peak of the island, you see a somewhat ruined helicopter. How convenient that you are a trained pilot — and mechanic! You notice that the tide is rushing in: soon, the island will be flooded and the helicopter will be underwater. Can you collect all the pieces of the helicopter and fly away before it’s too late?
+
+
+### INSTRUCTIONS:
+#### GENERAL
+··* Move around the game but watch out for the rising water! You must collect every wrench, fix your helicopter, and escape the island in one piece! You can leave your friend behind, but if one of you die, you lose!
+
+#### Player 1: 
+··* WASD to move
+··* Q to use scuba gear
+··* E to use engineer build ground
+
+#### Player 2: 
+··* Arrow keys to move
+··* J to use scuba gear
+··* K to use engineer ability
+
+#### EXTRA CREDIT:
+··* Scuba
+··* Engineer
+··* Music
+··* Better graphics
+··* Score
